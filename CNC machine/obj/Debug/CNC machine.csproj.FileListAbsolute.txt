@@ -1,0 +1,20 @@
+C:\Users\Steelandrey\source\repos\CNC machine\CNC machine\bin\Debug\CNC machine.exe.config
+C:\Users\Steelandrey\source\repos\CNC machine\CNC machine\bin\Debug\CNC machine.exe
+C:\Users\Steelandrey\source\repos\CNC machine\CNC machine\bin\Debug\CNC machine.pdb
+C:\Users\Steelandrey\source\repos\CNC machine\CNC machine\obj\Debug\CNC machine.csprojAssemblyReference.cache
+C:\Users\Steelandrey\source\repos\CNC machine\CNC machine\obj\Debug\CNC_machine.Form1.resources
+C:\Users\Steelandrey\source\repos\CNC machine\CNC machine\obj\Debug\CNC_machine.Properties.Resources.resources
+C:\Users\Steelandrey\source\repos\CNC machine\CNC machine\obj\Debug\CNC machine.csproj.GenerateResource.cache
+C:\Users\Steelandrey\source\repos\CNC machine\CNC machine\obj\Debug\CNC machine.csproj.CoreCompileInputs.cache
+C:\Users\Steelandrey\source\repos\CNC machine\CNC machine\obj\Debug\CNC machine.exe
+C:\Users\Steelandrey\source\repos\CNC machine\CNC machine\obj\Debug\CNC machine.pdb
+C:\Users\Steel\Documents\GitHub\CNC_machines\CNC machine\bin\Debug\CNC machine.exe.config
+C:\Users\Steel\Documents\GitHub\CNC_machines\CNC machine\bin\Debug\CNC machine.exe
+C:\Users\Steel\Documents\GitHub\CNC_machines\CNC machine\bin\Debug\CNC machine.pdb
+C:\Users\Steel\Documents\GitHub\CNC_machines\CNC machine\obj\Debug\CNC machine.csproj.AssemblyReference.cache
+C:\Users\Steel\Documents\GitHub\CNC_machines\CNC machine\obj\Debug\CNC_machine.Form1.resources
+C:\Users\Steel\Documents\GitHub\CNC_machines\CNC machine\obj\Debug\CNC_machine.Properties.Resources.resources
+C:\Users\Steel\Documents\GitHub\CNC_machines\CNC machine\obj\Debug\CNC machine.csproj.GenerateResource.cache
+C:\Users\Steel\Documents\GitHub\CNC_machines\CNC machine\obj\Debug\CNC machine.csproj.CoreCompileInputs.cache
+C:\Users\Steel\Documents\GitHub\CNC_machines\CNC machine\obj\Debug\CNC machine.exe
+C:\Users\Steel\Documents\GitHub\CNC_machines\CNC machine\obj\Debug\CNC machine.pdb
